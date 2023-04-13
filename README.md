@@ -2,11 +2,11 @@
 
 ## Learning Goals
 
-- Recognize Arrays are Objects
-- Recognize that many other things in JavaScript are Objects
-- Take a deeper look at Objects
+- Recognize Arrays are Objects.
+- Recognize that many other things in JavaScript are Objects.
+- Take a deeper look at Objects.
 - Introduce `this`
-- Introduce Prototypal Inheritance
+- Introduce Prototypal Inheritance.
 
 ## Introduction
 
